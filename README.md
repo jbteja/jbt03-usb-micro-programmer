@@ -1,2 +1,1 @@
-# pcb-usb-micro-programmer
-USB Micro Programmer for ESP and Arduino Boards
+# USB-Micro programmer for ESP and Arduino boards
