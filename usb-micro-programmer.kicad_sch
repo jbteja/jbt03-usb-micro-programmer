@@ -2285,7 +2285,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 36786f1c-5181-4b16-85f0-7a9b5e48989f)
   )
-  (text "0.1.2" (at 269.24 194.31 0)
+  (text "0.1.4" (at 269.24 194.31 0)
     (effects (font (size 1.27 1.27) bold) (justify left bottom))
     (uuid 571f273f-8ba5-40d2-a65d-81904c0b4280)
   )
