@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -66,7 +66,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "usb_micro_esp_v_0_1.kicad_prl",
+    "filename": "usb-micro-programmer.kicad_prl",
     "version": 3
   },
   "project": {
